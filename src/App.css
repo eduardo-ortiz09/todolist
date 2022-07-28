@@ -1,0 +1,12 @@
+.ctner {
+  width: 90%;
+  max-width: 500px;
+  height: 100vh;
+}
+.section-form {
+  background-color:#6A0892;
+}
+.section-form h2 {
+  text-align: center;
+  color:#FD8D1C;
+}
